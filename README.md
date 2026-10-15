@@ -27,8 +27,11 @@ Included because they work well together with the skills above. **Unmodified**, 
 | `ecc/` — content-engine, video-editing, brand-voice, article-writing, marketing-campaign, crosspost, market-research, benchmark-methodology, taste-distillation, remotion-video-creation, manim-video | [affaan-m/ECC](https://github.com/affaan-m/ECC) © Affaan Mustafa | MIT |
 | `roast-room/skill` — a council of advisor "brains" that stress-tests an idea | [nateherkai/roast-room](https://github.com/nateherkai/roast-room) © AI Automation Society | MIT |
 | `OpenMontage` (git submodule) — agentic video production | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | AGPL-3.0 |
+| `herk-edit-kit` (git submodule): video-editing kit on HyperFrames + GSAP. Has 15 skills: cut-silences, cut-mistakes, edit-video, short-form-edit, short-form-video, video-storytelling, make-a-video, motion-showreel, style-library, hyperframes, and more. | [nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) © Nate Herk | MIT + kit use permission (bundled HyperFrames under its own licence) |
+| `AIS-OS` (git submodule): an AI Operating System starter kit with skills for onboard, grill-me, audit, level-up, link and 3d-brain. | [nateherkai/AIS-OS](https://github.com/nateherkai/AIS-OS) © Nate Herk | MIT |
+| `human-speak` (git submodule): removes AI-sounding phrasing from writing and keeps the writer's voice. | [nateherkai/human-speak](https://github.com/nateherkai/human-speak) © Nate Herk | MIT |
 
-`git clone --recurse-submodules https://github.com/aljaz13223/marox-ai` to get OpenMontage too.
+`git clone --recurse-submodules https://github.com/aljaz13223/marox-ai` to get the submodules (OpenMontage, herk-edit-kit, AIS-OS, human-speak) too.
 
 ## Install
 

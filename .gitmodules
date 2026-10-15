@@ -1,3 +1,12 @@
 [submodule "third-party/OpenMontage"]
 	path = third-party/OpenMontage
 	url = https://github.com/calesthio/OpenMontage
+[submodule "third-party/herk-edit-kit"]
+	path = third-party/herk-edit-kit
+	url = https://github.com/nateherkai/herk-edit-kit
+[submodule "third-party/AIS-OS"]
+	path = third-party/AIS-OS
+	url = https://github.com/nateherkai/AIS-OS
+[submodule "third-party/human-speak"]
+	path = third-party/human-speak
+	url = https://github.com/nateherkai/human-speak
