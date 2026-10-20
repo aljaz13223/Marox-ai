@@ -30,8 +30,9 @@ Included because they work well together with the skills above. **Unmodified**, 
 | `herk-edit-kit` (git submodule): video-editing kit on HyperFrames + GSAP. Has 15 skills: cut-silences, cut-mistakes, edit-video, short-form-edit, short-form-video, video-storytelling, make-a-video, motion-showreel, style-library, hyperframes, and more. | [nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) © Nate Herk | MIT + kit use permission (bundled HyperFrames under its own licence) |
 | `AIS-OS` (git submodule): an AI Operating System starter kit with skills for onboard, grill-me, audit, level-up, link and 3d-brain. | [nateherkai/AIS-OS](https://github.com/nateherkai/AIS-OS) © Nate Herk | MIT |
 | `human-speak` (git submodule): removes AI-sounding phrasing from writing and keeps the writer's voice. | [nateherkai/human-speak](https://github.com/nateherkai/human-speak) © Nate Herk | MIT |
+| `agent-reach` (git submodule): gives an agent internet access, including web pages, YouTube subtitles, RSS, GitHub, Exa search and optional social channels. | [Panniantong/agent-reach](https://github.com/Panniantong/agent-reach) | MIT |
 
-`git clone --recurse-submodules https://github.com/aljaz13223/marox-ai` to get the submodules (OpenMontage, herk-edit-kit, AIS-OS, human-speak) too.
+`git clone --recurse-submodules https://github.com/aljaz13223/marox-ai` to get the submodules (OpenMontage, herk-edit-kit, AIS-OS, human-speak, agent-reach) too.
 
 ## Install
 

@@ -10,3 +10,6 @@
 [submodule "third-party/human-speak"]
 	path = third-party/human-speak
 	url = https://github.com/nateherkai/human-speak
+[submodule "third-party/agent-reach"]
+	path = third-party/agent-reach
+	url = https://github.com/Panniantong/agent-reach
