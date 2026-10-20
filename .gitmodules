@@ -13,3 +13,6 @@
 [submodule "third-party/agent-reach"]
 	path = third-party/agent-reach
 	url = https://github.com/Panniantong/agent-reach
+[submodule "third-party/agent-skills"]
+	path = third-party/agent-skills
+	url = https://github.com/addyosmani/agent-skills

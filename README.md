@@ -31,8 +31,9 @@ Included because they work well together with the skills above. **Unmodified**, 
 | `AIS-OS` (git submodule): an AI Operating System starter kit with skills for onboard, grill-me, audit, level-up, link and 3d-brain. | [nateherkai/AIS-OS](https://github.com/nateherkai/AIS-OS) © Nate Herk | MIT |
 | `human-speak` (git submodule): removes AI-sounding phrasing from writing and keeps the writer's voice. | [nateherkai/human-speak](https://github.com/nateherkai/human-speak) © Nate Herk | MIT |
 | `agent-reach` (git submodule): gives an agent internet access, including web pages, YouTube subtitles, RSS, GitHub, Exa search and optional social channels. | [Panniantong/agent-reach](https://github.com/Panniantong/agent-reach) | MIT |
+| `agent-skills` (git submodule): 25 production-grade engineering skills covering planning, specs, TDD, code review, security, debugging and shipping. | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) © Addy Osmani | MIT |
 
-`git clone --recurse-submodules https://github.com/aljaz13223/marox-ai` to get the submodules (OpenMontage, herk-edit-kit, AIS-OS, human-speak, agent-reach) too.
+`git clone --recurse-submodules https://github.com/aljaz13223/marox-ai` to get the submodules (OpenMontage, herk-edit-kit, AIS-OS, human-speak, agent-reach, agent-skills) too.
 
 ## Install
 
